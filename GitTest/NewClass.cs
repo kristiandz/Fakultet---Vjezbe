@@ -6,4 +6,9 @@ public class Class1
 	{
 		Console.WriteLine("Test");
 	}
+
+	public NewMethod()
+    {
+		Console.WriteLine("New method");
+    }
 }
