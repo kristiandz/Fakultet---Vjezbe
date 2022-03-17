@@ -5,10 +5,12 @@ public class Class1
 	public Class1()
 	{
 		Console.WriteLine("Test");
+	
 	}
-
-	public NewMethod()
-    {
-		Console.WriteLine("New method");
-    }
+	
+	public NewMethod(){
+		Console.WriteLine("Nova metoda");
+	}
+	
 }
+
